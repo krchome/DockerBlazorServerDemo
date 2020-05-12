@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Docker-BlazorServer-Demo" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^G:\\Udemy\\Instructor\\Blazor\\Docker\ -\ Hands\ On\ for\ Blazor\ Applications\\Projects\\Draft\\DockerBlazorServerDemo\\obj\\Release\\netcoreapp3\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
