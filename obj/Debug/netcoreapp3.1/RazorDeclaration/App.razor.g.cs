@@ -76,6 +76,13 @@ using DockerBlazorServerDemo.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 10 "G:\Udemy\Instructor\Blazor\Docker - Hands On for Blazor Applications\Projects\Draft\DockerBlazorServerDemo\_Imports.razor"
+using DockerBlazorServerDemo.Data;
+
+#line default
+#line hidden
+#nullable disable
     public partial class App : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
